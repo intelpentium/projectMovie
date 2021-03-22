@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApps</string>
+    <string name="home_judul">Genre</string>
+    <string name="movie_trailer">Trailer</string>
+</resources>

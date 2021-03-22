@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#62BC49</color>
+    <color name="colorPrimaryDark">#2e731a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorBiru">#154275</color>
+    <color name="colorKuning">#FEE44B</color>
+    <color name="colorTrans">#8c000000</color>
+    <color name="colorAbuMuda">#f1f1f2</color>
+    <color name="colorAbuDark">#4e4a49</color>
+    <color name="colorAbuGelap">#333A42</color>
+    <color name="colorAccentLight">#e1e1e1</color>
+    <color name="colorMerah">#F30D16</color>
+    <color name="colorHijauLumut">#0b7d3f</color>
+    <color name="colorRedSelected">#ff969e</color>
+    <color name="colorPink">#FFEAEA</color>
+
+    <color name="colorSearch">#5A6978</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#343F4B</color>
+    <color name="colorAbu">#BDBDBD</color>
+    <color name="colorLangit">#EAEEF4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#FF0005</color>
+    <color name="colorYellow">#FFE500</color>
+    <color name="colorBlue">#00A6FF</color>
+    <color name="colorGreen">#2FA700</color>
+    <color name="colorOrange">#FD5900</color>
+    <color name="demo_dark_transparent">#24000000</color>
+    <color name="colorHijau">#008577</color>
+    <color name="colorHijauDark">#00574B</color>
+    <color name="colorGrey">#F6FEF4</color>
+</resources>
